@@ -18,3 +18,4 @@ what GitHub is, why it is used, and how to use it step by step.
 - [Day 2 – GitHub Repositories](day-wise-notes/day-02-repositories.md)
 - [Day 3 – GitHub Commits](day-wise-notes/day-03-commits.md)
 - [Day 4 – GitHub Issues](day-wise-notes/day-04-issues.md)
+- [Day 5 – GitHub Branches](day-wise-notes/day-05-branches.md)
