@@ -23,5 +23,5 @@ what GitHub is, why it is used, and how to use it step by step.
 - [Day 7 – Pull Requests & Merge Conflicts](day-wise-notes/day-07-pull-requests-merge-conflicts.md)
 - [Day 8 – Project Boards & Task Tracking](day-wise-notes/day-08-project-boards-task-tracking.md)
 - [Day 9 – github-actions-automation](day-wise-notes/day-09-github-actions-automation.md)
-- [Day 10 –Open source contribution workflow](day-10-day-wise-notes/day-10-Open-source-contribution-workflow.md.md)
+- [Day 10 –Open source contribution workflow](day-wise-notes/day-10-Open-source-contribution-workflow.md.md)
     
